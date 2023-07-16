@@ -1561,22 +1561,6 @@ blockquote footer cite:before {
 blockquote > :last-child {
   margin-bottom: 0 !important;
 }
-blockquote #article-container.post-content h1: before,
-blockquote h2: before,
-blockquote h3: before,
-blockquote h4: before,
-blockquote h5: before,
-blockquote h6: before {
-  -webkit-animation: avatar_turn_around 1s linear infinite;
-  -moz-animation: avatar_turn_around 1s linear infinite;
-  -o-animation: avatar_turn_around 1s linear infinite;
-  -ms-animation: avatar_turn_around 1s linear infinite;
-  -webkit-animation: avatar_turn_around 1s linear infinite;
-  -moz-animation: avatar_turn_around 1s linear infinite;
-  -o-animation: avatar_turn_around 1s linear infinite;
-  -ms-animation: avatar_turn_around 1s linear infinite;
-  animation: avatar_turn_around 1s linear infinite;
-}
 :root {
   --hl-color: #eff;
   --hl-bg: #212121;

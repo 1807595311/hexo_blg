@@ -5,3 +5,11 @@
     -ms-animation: avatar_turn_around 1s linear infinite;
     animation: avatar_turn_around 1s linear infinite;
   }
+  .framework-info{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .framework-info a{
+    margin-left: 5px !important;
+  }
